@@ -25,6 +25,7 @@ updates:
       interval: "weekly"
     allow:
       - dependency-type: "all"
+#      - dependency-name: "com.gradle*"
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
