@@ -25,6 +25,8 @@ updates:
       interval: "weekly"
     allow:
       - dependency-type: "all"
+#      - dependency-name: "com.gradle*"
+    open-pull-requests-limit: 100
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
