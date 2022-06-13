@@ -111,7 +111,7 @@
 
     <!-- Closure compiler -->
     <closure-compiler.version>v20220405</closure-compiler.version>
-    <closure-compiler-maven-plugin.version>2.22.0</closure-compiler-maven-plugin.version>
+    <closure-compiler-maven-plugin.version>2.23.0</closure-compiler-maven-plugin.version>
 
     <!-- By default Checkstyle, Backward compatibility check, Enforcer, License plugins, etc are on -->
     <xwiki.checkstyle.skip>false</xwiki.checkstyle.skip>
